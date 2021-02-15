@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Carneiro | Sentient Satellites Lab</title>
+    <link>/author/g.-carneiro/</link>
+      <atom:link href="/author/g.-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Carneiro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Carneiro</title>
+      <link>/author/g.-carneiro/</link>
+    </image>
+    
+    <item>
+      <title>Closed-loop deep vision</title>
+      <link>/publication/carneiro-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/carneiro-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point correspondence validation under unknown radial distortion</title>
+      <link>/publication/liu-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In defence of RANSAC for outlier rejection in deformable registration</title>
+      <link>/publication/tran-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tran-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. del Bue | Sentient Satellites Lab</title>
+    <link>/author/a.-del-bue/</link>
+      <atom:link href="/author/a.-del-bue/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. del Bue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A. del Bue</title>
+      <link>/author/a.-del-bue/</link>
+    </image>
+    
+    <item>
+      <title>Practical motion segmentation for urban street view scenes</title>
+      <link>/publication/rubino-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rubino-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

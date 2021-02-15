@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Parra Bustos | Sentient Satellites Lab</title>
+    <link>/author/a.-parra-bustos/</link>
+      <atom:link href="/author/a.-parra-bustos/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Parra Bustos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Parra Bustos</title>
+      <link>/author/a.-parra-bustos/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Learnable Geometric Vision by Backpropagating PnP Optimization</title>
+      <link>/publication/chen-20-end-to-end/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-20-end-to-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical optimal registration of terrestrial LiDAR scan pairs</title>
+      <link>/publication/cai-18/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite pose estimation with deep landmark regression and nonlinear pose refinement</title>
+      <link>/publication/chen-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual SLAM: Why bundle adjust?</title>
+      <link>/publication/parra-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guaranteed outlier removal for point cloud registration with correspondences</title>
+      <link>/publication/parra-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast rotation search with stereographic projections for 3D registration</title>
+      <link>/publication/parra-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guaranteed outlier removal for rotation search</title>
+      <link>/publication/parra-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast rotation search for real-time interactive point cloud registration</title>
+      <link>/publication/chin-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast rotation search with stereographic projections for 3D registration</title>
+      <link>/publication/parra-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

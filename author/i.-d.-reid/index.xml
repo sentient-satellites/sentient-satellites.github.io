@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. D. Reid | Sentient Satellites Lab</title>
+    <link>/author/i.-d.-reid/</link>
+      <atom:link href="/author/i.-d.-reid/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. D. Reid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I. D. Reid</title>
+      <link>/author/i.-d.-reid/</link>
+    </image>
+    
+    <item>
+      <title>Visual SLAM: Why bundle adjust?</title>
+      <link>/publication/parra-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient point process inference for large-scale object detection</title>
+      <link>/publication/pham-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The k-support Norm and Convex Envelopes of Cardinality and Rank</title>
+      <link>/publication/eriksson-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/eriksson-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

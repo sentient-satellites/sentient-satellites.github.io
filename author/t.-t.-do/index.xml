@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. -T. Do | Sentient Satellites Lab</title>
+    <link>/author/t.-t.-do/</link>
+      <atom:link href="/author/t.-t.-do/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. -T. Do</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>T. -T. Do</title>
+      <link>/author/t.-t.-do/</link>
+    </image>
+    
+    <item>
+      <title>Deterministic Approximate Methods for Maximum Consensus Robust Fitting</title>
+      <link>/publication/le-19/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/le-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Localization Under Appearance Change: Filtering Approaches</title>
+      <link>/publication/doan-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable place recognition under appearance change for autonomous driving</title>
+      <link>/publication/doan-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Localization Under Appearance Change: A Filtering Approach</title>
+      <link>/publication/doan-19-visual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-19-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-smooth M-estimator for maximum consensus estimation</title>
+      <link>/publication/le-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/le-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Scheuermann | Sentient Satellites Lab</title>
+    <link>/author/b.-scheuermann/</link>
+      <atom:link href="/author/b.-scheuermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Scheuermann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Scheuermann</title>
+      <link>/author/b.-scheuermann/</link>
+    </image>
+    
+    <item>
+      <title>Randomly walking can get you lost: graph segmentation with unknown edge weights</title>
+      <link>/publication/ackermann-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ackermann-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

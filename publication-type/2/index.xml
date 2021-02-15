@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sentient Satellites Lab</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Deterministic Approximate Methods for Maximum Consensus Robust Fitting</title>
+      <link>/publication/le-19/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/le-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HM4: Hidden Markov Model with Memory Management for Visual Place Recognition</title>
+      <link>/publication/doan-20-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-20-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation averaging with the chordal distance: global minimizers and strong duality</title>
+      <link>/publication/eriksson-19/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/eriksson-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Fitting in Computer Vision: Easy or Hard?</title>
+      <link>/publication/chin-20-robust-fitting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-20-robust-fitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological Sweep for Multi-Target Detection of Geostationary Space Objects</title>
+      <link>/publication/liu-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Localization Under Appearance Change: Filtering Approaches</title>
+      <link>/publication/doan-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical optimal registration of terrestrial LiDAR scan pairs</title>
+      <link>/publication/cai-18/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cai-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust foreground segmentation and image registration for optical detection of GEO objects</title>
+      <link>/publication/do-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/do-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coresets for triangulation</title>
+      <link>/publication/zhang-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guaranteed outlier removal for point cloud registration with correspondences</title>
+      <link>/publication/parra-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering with hypergraphs: the case for large hyperedges</title>
+      <link>/publication/purkait-16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/purkait-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient globally optimal consensus maximisation with tree search</title>
+      <link>/publication/chin-16/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast rotation search with stereographic projections for 3D registration</title>
+      <link>/publication/parra-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/parra-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion segmentation via sparsity constraint</title>
+      <link>/publication/lai-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/lai-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adversarial optimization approach to efficient outlier removal</title>
+      <link>/publication/yu-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/yu-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As-projective-as-possible image stitching with Moving DLT</title>
+      <link>/publication/zaragoza-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zaragoza-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interacting geometric priors for robust multi-model fitting</title>
+      <link>/publication/pham-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling minimal subsets with large spans for robust estimation</title>
+      <link>/publication/tran-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tran-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The random cluster model for robust geometric fitting</title>
+      <link>/publication/pham-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pham-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking via weakly supervised learning from multiple imperfect oracles</title>
+      <link>/publication/zhong-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zhong-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiple hypothesis tracker for multitarget tracking With multiple simultaneous measurements</title>
+      <link>/publication/sathyan-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sathyan-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simultaneous sample-and-filter strategy for robust multi-structure model fitting</title>
+      <link>/publication/wong-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode seeking over permutations for rapid geometric model fitting</title>
+      <link>/publication/wong-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated hypothesis generation for multistructure data via preference analysis</title>
+      <link>/publication/chin-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneously fitting and segmenting multiple-structure data with outliers</title>
+      <link>/publication/wang-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting histograms of descriptor distances for scalable multiclass specific scene recognition</title>
+      <link>/publication/chin-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile phone-based mixed reality: the Snap2Play game</title>
+      <link>/publication/chin-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-sample extrapolation of learned manifolds</title>
+      <link>/publication/chin-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental kernel principal component analysis</title>
+      <link>/publication/chin-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-07/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

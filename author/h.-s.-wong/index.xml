@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. S. Wong | Sentient Satellites Lab</title>
+    <link>/author/h.-s.-wong/</link>
+      <atom:link href="/author/h.-s.-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. S. Wong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>H. S. Wong</title>
+      <link>/author/h.-s.-wong/</link>
+    </image>
+    
+    <item>
+      <title>A simultaneous sample-and-filter strategy for robust multi-structure model fitting</title>
+      <link>/publication/wong-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode seeking over permutations for rapid geometric model fitting</title>
+      <link>/publication/wong-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic and hierarchical multi-structure geometric model fitting</title>
+      <link>/publication/wong-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient multi-structure robust fitting with incremental top-k Lists comparison</title>
+      <link>/publication/wong-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/wong-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. S. Brown | Sentient Satellites Lab</title>
+    <link>/author/m.-s.-brown/</link>
+      <atom:link href="/author/m.-s.-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. S. Brown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>M. S. Brown</title>
+      <link>/author/m.-s.-brown/</link>
+    </image>
+    
+    <item>
+      <title>As-projective-as-possible image stitching with Moving DLT</title>
+      <link>/publication/zaragoza-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/zaragoza-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast rotation search for real-time interactive point cloud registration</title>
+      <link>/publication/chin-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/chin-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>As-projective-as-possible image stitching with Moving DLT</title>
+      <link>/publication/zaragoza-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/zaragoza-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seam driven image stitching</title>
+      <link>/publication/gao-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gao-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In defence of RANSAC for outlier rejection in deformable registration</title>
+      <link>/publication/tran-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tran-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

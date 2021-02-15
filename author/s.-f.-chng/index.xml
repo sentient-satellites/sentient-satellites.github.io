@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. F. Ch&#39;ng | Sentient Satellites Lab</title>
+    <link>/author/s.-f.-chng/</link>
+      <atom:link href="/author/s.-f.-chng/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. F. Ch&#39;ng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>S. F. Ch&#39;ng</title>
+      <link>/author/s.-f.-chng/</link>
+    </image>
+    
+    <item>
+      <title>Resolving Marker Pose Ambiguity by Robust Rotation Averaging with Clique Constraints</title>
+      <link>/publication/chng-20-resolving/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chng-20-resolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Localization Under Appearance Change: Filtering Approaches</title>
+      <link>/publication/doan-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Localization Under Appearance Change: A Filtering Approach</title>
+      <link>/publication/doan-19-visual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doan-19-visual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

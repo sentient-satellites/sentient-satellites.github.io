@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alvaro Parra Bustos | Sentient Satellites Lab</title>
+    <link>/author/alvaro-parra-bustos/</link>
+      <atom:link href="/author/alvaro-parra-bustos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alvaro Parra Bustos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
+    <image>
+      <url>/author/alvaro-parra-bustos/avatar_hu5ba84734f86ca1c3c3e8e229df8e6a04_20014_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alvaro Parra Bustos</title>
+      <link>/author/alvaro-parra-bustos/</link>
+    </image>
+    
+  </channel>
+</rss>

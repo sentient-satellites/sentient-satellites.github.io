@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Marker | Sentient Satellites Lab</title>
+    <link>/author/r.-marker/</link>
+      <atom:link href="/author/r.-marker/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Marker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Marker</title>
+      <link>/author/r.-marker/</link>
+    </image>
+    
+    <item>
+      <title>Eficient geometric matching with polar bounds for aligning star field images</title>
+      <link>/publication/marker-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/marker-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
